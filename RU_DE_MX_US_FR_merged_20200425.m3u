@@ -1,7 +1,9 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_9D56LSw9ss/maxresdefault.jpg",YouTube|Learn Russian 24/7 with RussianPod101 TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_9D56LSw9ss/maxresdefault.jpg",YouTube|Learn Russian 24/7 with RussianPod101 TV Stream1
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1587843923/ei/8z6kXoDXBpn8hgbn-ayoDw/ip/213.245.234.102/id/_9D56LSw9ss.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIgNXBNYRskEBVQvb-eDpsGiN0f80-Vwz16Xz-dJPJosF0CIQCntC5zF5g1g5Jy2B42eG7_AxHRimCoFMz9dTFKHM88Ew%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_9D56LSw9ss/maxresdefault.jpg",YouTube|Learn Russian 24/7 with RussianPod101 TV Stream2
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1587865923/ei/45SkXrnwA4XJxwKg1r2ABQ/ip/213.245.234.102/id/_9D56LSw9ss.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRAIgHnN_uxZ-vHA_0jg63jbCjujKod_Ss_EJbDa_fdx-BrkCIB3K23q0IHzXZIh0L21D03hkPShNZMbMu8QvpsKN4dP3/file/index.m3u8
 
 #EXTINF:-1,s4| 3
 http://ott-cdn.ucom.am/s12/04.m3u8
